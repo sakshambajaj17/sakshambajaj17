@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express**
 
-- 👨‍💻 All of my projects are available at [https://sakshambajaj17.github.io/sakshambajaj/](https://sakshambajaj17.github.io/sakshambajaj/)
+- 👨‍💻 All of my projects are available at [https://sakshambajaj.me](https://sakshambajaj.me)
 
 - 💬 Ask me about **Web Development**
 
